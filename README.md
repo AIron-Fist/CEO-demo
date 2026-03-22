@@ -32,14 +32,6 @@ Please continue the list in the same format and complete each client entry with 
 
 Please complete the remaining client entries in this same format.
 
-For compliance purposes, the completed client list must have been maintained in the Documents folder. Kindly ensure that the finalized list you include here is the same you have there.
-
-Please do not include highly sensitive personal data in the body of the email, including government identification numbers, passport details, full dates of birth, financial account details, passwords, or other confidential identifiers.
-
-Where sensitive information is required to finalize a client record, please indicate only which items remain outstanding and provide the actual details through the approved secure channel.
-
-Kindly preserve the existing list format and complete the remaining entries accordingly.
-
-Best regards,
-Svetlina Al-Anati
+For compliance purposes, the completed client list must have been maintained in Notion. Kindly ensure that the finalized list you include here is the same you have there.
+Anati
 Director Data Governance
